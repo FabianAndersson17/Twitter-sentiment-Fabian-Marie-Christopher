@@ -13,6 +13,8 @@ matplotlib = "*"
 scikit-learn = "*"
 transformers = "*"
 ipywidgets = "*"
+torchsample = {editable = true, git = "https://github.com/ncullen93/torchsample.git"}
+nibabel = "*"
 
 [dev-packages]
 ipykernel = "*"
